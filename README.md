@@ -1,6 +1,6 @@
-# first_flutter
+# First Flutter App
 
-A new Flutter application.
+Show list of The Avengers and detail
 
 ## Getting Started
 
